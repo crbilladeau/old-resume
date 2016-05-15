@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin:700);
+@import url(https://fonts.googleapis.com/css?family=Cabin:400italic);
+@import url(https://fonts.googleapis.com/css?family=Cabin);
+  body {
+    font-family: "Cabin", sans-serif;
+    margin-bottom: 50px;
+  }
+
+  #container {
+    width: 800px;
+    margin: 40px auto 60px;
+  }
+
+  #picture {
+    position: relative;
+    float: right;
+    margin-top: -30px;
+    margin-right: 100px;
+  }
+
+  #name {
+    font-size: 42px;
+    font-weight: 700;
+  }
+
+  #profile {
+  position: relative;
+  font-size: 20px;
+  font-weight: 700;
+  }
+
+  #profile_text {
+    position: relative;
+    margin-left: 29px;
+    margin-top: -10px;
+    width: 450px;
+  }
+
+  #education {
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: -4px;
+  }
+
+  #education_text {
+    position: relative;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 35px;
+    padding-bottom: 10px;
+  }
+
+  #experience {
+    font-size: 20px;
+    font-weight:700;
+    padding-top: 10px;
+
+  }
+
+  .experience_positions {
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 35px;
+
+  }
+
+  .exp_locations {
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 35px;
+
+  }
+
+  .block_duties {
+    margin-left: 35px;
+    width: 400px;
+  }
+
+  .skills {
+    position: relative;
+    float: right;
+    width: 400px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .skills_block {
+    position: relative;
+    float: right;
+    width: 375px;
+    font-size: 10px;
+    font-weight: 700;
+  }
+
+  .proficiences_list {
+    position: relative;
+    float: left;
+    width: 400px;
+  }
+
+  .knowledge_list {
+    position: relative;
+    float: right;
+    width: 350px;
+  }
